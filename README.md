@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everybody! 👋
+#### Beth (she/her)
+
+Hi! My name is Beth and I'm a high school coder who's very excited to learn more about CS! Right now, I'm learning as much as I can about web development, specifically node. Additionally, I've been using MatLab to create models of financial simulations involving stochastic processes as a part of the Curie Academy, a diversity program at Cornell Engineering! Beyond coding, I'm a harpist and I'm currently obsessed with The Good Place.
 
 <!--
 **bethpol/bethpol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
